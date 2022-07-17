@@ -1,5 +1,5 @@
 def hello_name(name):
     return 'Hello ' + name + '!'
 
-greeting = hello_name('Python')
-print(greeting)
+greet = hello_name('Python')
+print(greet)
